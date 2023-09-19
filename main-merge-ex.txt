@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from Modification
+=======
+hello
+>>>>>>> conflict
